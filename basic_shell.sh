@@ -2,3 +2,5 @@
 
 whoami
 pwd
+date
+time
