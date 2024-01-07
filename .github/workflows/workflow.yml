@@ -10,5 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run:
-           ls
-           sh basic_shell.sh
+           ls -la
+           chmod +x basic_shell.sh
+           ls -la
+           ./basic_shell.sh
