@@ -14,4 +14,4 @@ jobs:
            chmod +x basic_shell.sh
            ls -la
            ./basic_shell.sh
-      - shell: bash
+  
