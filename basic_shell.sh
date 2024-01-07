@@ -4,3 +4,4 @@ whoami
 pwd
 date
 time
+ps -aux
