@@ -11,8 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-           ls -la
-           chmod +x basic_shell.sh
-           ls -la
-           ./basic_shell.sh
-  
+           #ls -la
+           #chmod +x basic_shell.sh
+           #ls -la
+           #./basic_shell.sh
+           chmod +x linux_ex1.sh
+           ./linux_ex1.sh
